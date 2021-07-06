@@ -1,0 +1,1 @@
+O curso de Git é um pouc rápido e não muito intuitivo para quem não tem noção sobre o assunto.
